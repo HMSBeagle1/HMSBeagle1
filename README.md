@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Doruk Alp Arifagaoğlu
+# 👋 Hey, I'm Doruk Alp Arifagaoglu
 
 Rooted in science, drawn to design — I explore how logic meets aesthetics.  
 Through creative coding, I translate the language of life sciences into visual stories and interactive systems.
